@@ -1,8 +1,10 @@
-package com.reza.if3b;
+package com.reza.if3b.Activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.reza.if3b.R;
 
 public class MainActivity extends AppCompatActivity {
 
